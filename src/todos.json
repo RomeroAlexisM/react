@@ -3,19 +3,19 @@
     {
       "title": "Tarea 1",
       "responsible": "Mark",
-      "descripcion": "lirem impsum",
+      "description": "lirem impsum",
       "priority": "low"
     },
     {
       "title": "Tarea 2",
       "responsible": "Ryan",
-      "descripcion": "lirem impsum2",
+      "description": "lirem impsum2",
       "priority": "medium"
     },
     {
       "title": "Tarea 3",
       "responsible": "Jpseph",
-      "descripcion": "lirem impsum 3",
+      "description": "lirem impsum 3",
       "priority": "high"
     }
   ]
