@@ -11,7 +11,7 @@ class App extends Component {
     super();
     this.state = {
       todos
-    };
+    }; //comentario extra para git 
     this.handleAddTodo = this.handleAddTodo.bind(this);
   }
 
